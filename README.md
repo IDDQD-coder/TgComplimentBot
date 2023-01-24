@@ -16,6 +16,7 @@ It can:
 <p>
 For the bot to work, you need to:
 <ol>
+<li>upload the repository to your local folder</li>
 <li>get bot token from @BotFather</li>
 <li>create account on https://unsplash.com/developers and create app in there,
 after that you could get access key from that</li>
