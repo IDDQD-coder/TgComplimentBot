@@ -2,27 +2,35 @@
 Telegram bot for compliments
 
 This bot was created as an assistant for a guy who has a girlfriend. 
-He can:
--generate compliments for her 
--send your photo
--send her photo
--send photos by topic (you can tune it)
-Is also has a strict access list, so no one else can get access.
+<div>
+It can:
+<li>generate compliments for her </li>
+<li>send your photo</li>
+<li>send her photo</li>
+<li>send photos by topic (you can tune it)</li>
+</div>
+
+<p>Is also has a strict access list, so no one else can get access.</p>
 
 
+<p>
 For the bot to work, you need to:
--get bot token from @BotFather
--create account on https://unsplash.com/developers and create app in there,
-after that you could get access key from that
--download all packagse from requirments.txt
--using @getmyid_bot get your girlfriend's telegram id 
--add your best photos into folder /myimages
--add her best photos into folder /herimages
--after inserting all photos you have to run rename_script.py
-
-At the end you'll have to enter the required data in main.py (everything i listed above)
+<ol>
+<li>get bot token from @BotFather</li>
+<li>create account on https://unsplash.com/developers and create app in there,
+after that you could get access key from that</li>
+<li>download all packagse from requirments.txt</li>
+<li>using @getmyid_bot get your girlfriend's telegram id </li>
+<li>add your best photos into folder /myimages</li>
+<li>add her best photos into folder /herimages</li>
+<li>run rename_script.py</li>
+<li>enter the required data in main.py (your's and her's telegram id, bot token, access key from Unsplash)</li>
+</ol>
+</p>
 
 After all you can run main.py and suprise your girl
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
