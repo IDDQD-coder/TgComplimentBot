@@ -20,7 +20,7 @@ For the bot to work, you need to:
 <li>get bot token from @BotFather</li>
 <li>create account on https://unsplash.com/developers and create app in there,
 after that you could get access key from that</li>
-<li>download all packagse from requirments.txt</li>
+<li>download all package from requirments.txt</li>
 <li>using @getmyid_bot get your girlfriend's telegram id </li>
 <li>add your best photos into folder /myimages</li>
 <li>add her best photos into folder /herimages</li>
